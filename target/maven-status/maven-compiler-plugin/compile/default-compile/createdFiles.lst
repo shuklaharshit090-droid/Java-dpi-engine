@@ -1,1 +1,3 @@
 com\harshit\dpi\cli\Main.class
+com\harshit\dpi\pcap\RawPacket.class
+com\harshit\dpi\pcap\PcapReader.class
